@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tournament_421_Shabaeva_Amina_Gayizovna", "Tournament_421_Shabaeva_Amina_Gayizovna\Tournament_421_Shabaeva_Amina_Gayizovna.csproj", "{71FAF6A1-77E4-4555-B46B-EF75101C180F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71FAF6A1-77E4-4555-B46B-EF75101C180F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FAF6A1-77E4-4555-B46B-EF75101C180F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FAF6A1-77E4-4555-B46B-EF75101C180F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FAF6A1-77E4-4555-B46B-EF75101C180F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DF697B3-CA47-4932-A14E-15E12AA583F1}
+	EndGlobalSection
+EndGlobal
